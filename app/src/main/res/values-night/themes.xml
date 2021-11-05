@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.RecipesCooking" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#FF21282e</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
